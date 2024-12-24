@@ -51,3 +51,8 @@ build/
 
 ### Dev Window Settings gitignore
 .vscode/
+
+### ESP-IDF gitignore
+sdkconfig
+sdkconfig.old
+dependencies.lock
